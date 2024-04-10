@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Empire state building",
+    "description": "Skyscraper",
+    "address": "20 West 34th Street, New York City, NY 10001s",
+    "coordinates": { "lat": "40.74837", "lng": "-73.98464" },
+    "creator": "u1"
+  },
+  {
+    "id": 2,
+    "title": "Empire state building",
+    "description": "Skyscraper",
+    "address": "20 West 34th Street, New York City, NY 10001s",
+    "coordinates": { "lat": "40.74837", "lng": "-73.98464" },
+    "creator": "u1"
+  },
+  {
+    "id": 3,
+    "title": "Empire state building2",
+    "description": "Skyscraper",
+    "address": "20 West 34th Street, New York City, NY 10001s",
+    "coordinates": { "lat": "40.74837", "lng": "-73.98464" },
+    "creator": "u5"
+  },
+  {
+    "id": 4,
+    "title": "",
+    "description": "Skyscraper",
+    "address": "20 West 34th Street, New York City, NY 10001s",
+    "coordinates": { "lat": "40.74837", "lng": "-73.98464" },
+    "creator": "u5"
+  },
+  {
+    "id": 5,
+    "coordinates": { "lat": 48.13739529999999, "lng": 11.5747712 },
+    "title": "Munich",
+    "description": "Skyscraper",
+    "address": "Marienplatz 1, Munich",
+    "creator": "u5"
+  },
+  {
+    "id": 6,
+    "coordinates": { "lat": 40.7048689, "lng": -74.0100978 },
+    "title": "Stock Exachange",
+    "description": "Skyscraper",
+    "address": "11 Woll St, New York, NY 1005",
+    "creator": "u5"
+  }
+]
